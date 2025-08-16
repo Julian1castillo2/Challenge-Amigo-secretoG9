@@ -12,9 +12,6 @@ Este desafío consiste en una aplicación que permite a los usuarios ingresar no
 
    ![Alerta de validación](./assets/readme/funcion2.png)
 
-- 👀**Visualización dinámica:** Los nombres ingresados aparecerán en una lista actualizada automáticamente debajo del campo de entrada.
-
-   ![Lista de nombres](./assets/readme/funcion3.png)
 
 
 ## Comenzando 🚀
@@ -48,4 +45,5 @@ Este proyecto no requiere ninguna instalación adicional. Simplemente abre el ar
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - Para la estructura y diseño de la página.
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Para los estilos visuales.
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Para la lógica de la aplicación (agregar nombres, realizar el sorteo, etc.).
+
 
